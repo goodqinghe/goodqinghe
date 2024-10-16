@@ -1,2 +1,1 @@
-# goodqinghehe
-My personal repository
+# hello ！
